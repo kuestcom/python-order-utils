@@ -1,6 +1,6 @@
 from ..signer import Signer
 from ..utils import normalize_address, prepend_zx
-from poly_eip712_structs import make_domain, EIP712Struct
+from kuest_eip712_structs import make_domain, EIP712Struct
 from eth_utils import keccak
 
 
