@@ -1,7 +1,7 @@
 ## Kuest CLOB Python order-utils
 
-<a href='https://pypi.org/project/py-order-utils'>
-    <img src='https://img.shields.io/pypi/v/py-order-utils.svg' alt='PyPI'/>
+<a href='https://pypi.org/project/kuest-py-order-utils'>
+    <img src='https://img.shields.io/pypi/v/kuest-py-order-utils.svg' alt='PyPI'/>
 </a>
 
 Python utilities used to generate and sign orders for the Kuest CTF Exchange
@@ -9,7 +9,7 @@ Python utilities used to generate and sign orders for the Kuest CTF Exchange
 ### Install
 
 ```bash
-pip install py-order-utils
+pip install kuest-py-order-utils
 ```
 
 ### Usage

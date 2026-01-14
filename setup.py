@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="py_order_utils",
+    name="kuest-py-order-utils",
     version="0.3.2",
     author="Kuest Engineering",
     author_email="engineering@kuest.com",
@@ -17,7 +17,7 @@ setuptools.setup(
     install_requires=[
         "eth-utils>=4.1.1",
         "eth-account>=0.13.0",
-        "kuest-eip712-structs",
+        "kuest-py-eip712-structs==0.0.1",
         "pytest",
     ],
     package_data={
